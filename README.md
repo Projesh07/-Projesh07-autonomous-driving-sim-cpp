@@ -5,7 +5,6 @@
   * GLUT to OpenGL converstion
   * Using Intel openmp parallel programming 
 
-  For my bottom-up implementation I am starting with parallel programing 
 
 ## Using Intel OpenMP parallel programming 
   * What is parallel computing 
