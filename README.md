@@ -1,4 +1,4 @@
-# autonomous-driving-simulator-cpp / roscpp
+# autonomous-driving-simulator-cpp / roscpp  
 
 # Table of content:
   * C to C++code conversiton
@@ -119,6 +119,13 @@
 ```
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/8930208/154298800-f7d55def-4e03-49b9-b315-63070eae0df5.png">
 
+
+
+## Operating simulation by ROS cheatsheet
+![Screenshot 2022-02-23 010630](https://user-images.githubusercontent.com/8930208/155241522-98cd6266-31df-44b8-978a-46399b76926b.png)
+
+
+## ROS cheatsheet: [ROSCheatsheet.pdf](https://github.com/Projesh07/-Projesh07-autonomous-driving-sim-cpp/files/8121009/ROSCheatsheet.pdf)
 
 
 
